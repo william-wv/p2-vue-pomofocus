@@ -10,8 +10,8 @@
             <button class="buttons"> Short Break </button>
             <button class="buttons"> Long Break </button>
         </div>
-        <div class="timer">
-            <p>
+        <div class="div_timer">
+            <p class="timer">
                 25:00
             </p>
         </div>
@@ -53,10 +53,13 @@
         font-size: 18px;
     }
 
-
-    .timer{
+    .div_timer{
         display: flex;
         justify-content: center;
+    }
+
+
+    .timer{
         color: #FFF;
         font-size: 100px;
         font-weight: bold;
