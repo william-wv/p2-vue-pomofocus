@@ -5,6 +5,7 @@ import Timer from "./components/timer.vue"
 
 
 <template>
-<Timer/>
+
+    <Timer/>
 
 </template>
