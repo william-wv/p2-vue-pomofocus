@@ -1,9 +1,11 @@
 <script setup>
-  import Header from "./components/Header.vue";
+import Timer from "./components/timer.vue"
+
 </script>
+
 
 <template>
 
-  <Header/>
+    <Timer/>
 
 </template>
