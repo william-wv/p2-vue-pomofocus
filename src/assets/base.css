@@ -1,9 +1,23 @@
+:root {
+  --Red: #ba4949;
+  --Blue: #38858a;
+  --Blue2: #397097;
+  --Transparent: #ffffff1a;
+}
+
 *{
   margin: 0;
   padding: 0;
+  color: white;
+  font-size: 20px;
+
   font-family: Arial, sans-serif;
 }
 
 body {
   background-color: #ba4949;
+}
+
+.d-flex {
+  display: flex;
 }
